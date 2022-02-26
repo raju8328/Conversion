@@ -1,0 +1,6 @@
+com\momentum\SpringBootMetricConversion\VolumeServiceTest.class
+com\momentum\SpringBootMetricConversion\WeightServiceTest.class
+com\momentum\SpringBootMetricConversion\LengthServiceTest.class
+com\momentum\SpringBootMetricConversion\SpringBootMetricConversionApplicationTests.class
+com\momentum\SpringBootMetricConversion\AreaServiceTest.class
+com\momentum\SpringBootMetricConversion\TemperatureServiceTest.class

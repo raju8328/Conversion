@@ -1,0 +1,9 @@
+com\momentum\SpringBootMetricConversion\controller\ConversionController.class
+com\momentum\SpringBootMetricConversion\service\WeightService.class
+com\momentum\SpringBootMetricConversion\service\TemperatureService.class
+com\momentum\SpringBootMetricConversion\ServletInitializer.class
+com\momentum\SpringBootMetricConversion\service\LengthService.class
+com\momentum\SpringBootMetricConversion\service\AreaService.class
+com\momentum\SpringBootMetricConversion\service\VolumeService.class
+com\momentum\SpringBootMetricConversion\service\Convertor.class
+com\momentum\SpringBootMetricConversion\SpringBootMetricConversionApplication.class
